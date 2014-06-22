@@ -21,6 +21,13 @@
 
 &lt;p&gt;Cuberific is a Rubik&amp;rsquo;s Cube timer web application. The back end service is written in Go &lt;a href=&#34;http://Golang.org/&#34;&gt;Golang.org&lt;/a&gt;. The front end is an &lt;a href=&#34;https://angularjs.org/&#34;&gt;Angular JS&lt;/a&gt; application. On the web server front &lt;a href=&#34;https://nginx.org/&#34;&gt;Nginx&lt;/a&gt; was used to serve the Angular JS application and proxy the Go web service. For the database &lt;a href=&#34;http://www.mongodb.org/&#34;&gt;MongoDB&lt;/a&gt; was used.&lt;/p&gt;
 
+&lt;figure &gt;
+    
+        &lt;img src=&#34;/media/screenShot.png&#34; alt=&#34;Cuberific&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
 &lt;h3 id=&#34;toc_1&#34;&gt;THIS APPLICATION IS NOT READY FOR PRODUCTION USE&lt;/h3&gt;
 
 &lt;p&gt;Shortcuts were taken with some aspects of security and would need to be fixed before used in production.&lt;/p&gt;
